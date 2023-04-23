@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.teampotato.lead.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
